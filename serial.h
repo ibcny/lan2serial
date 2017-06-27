@@ -3,7 +3,6 @@
  * lan2serial
  * Utility for the transport of data from serial interfaces to TCP/IP or vice versa.
  * 
- * Copyright (C) 2012 Ibrahim Can Yuce <canyuce@gmail.com>
  *
  * ----------------------------------------------------------------------------
  * This program is free software; you can redistribute it and/or modify
